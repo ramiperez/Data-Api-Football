@@ -1,6 +1,5 @@
 from datetime import datetime
 import db_connection
-import get_data_api
 import pyodbc
 import json
 import pandas as pd
