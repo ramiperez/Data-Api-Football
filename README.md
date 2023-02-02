@@ -8,19 +8,19 @@
 [TOC]
 
 ----
-##Descripción
+## Descripción
 <p>
 Proyecto para analizar data de una api de fútbol, realizando el consumo de la misma a través de Python. Posteriormente, se agregan funcionalidades para realizar transformaciones de los datos y cargarlos en un servidor local.
 </p>
 
-##Herramientas ulizadas en el proyecto:
+## Herramientas ulizadas en el proyecto:
 
 - Python (Pandas, Jupyter Notebook)
 - SQL Server Management Studio (Vistas, Store Procedures)
 - PowerBI
 - Visual Studio (SSIS)
 
-##Historias de usuario
+## Historias de usuario
 
 - <b>Primer sprint</b>: Consumo de información de API FOOTBALL, más la funcionalidad de interpretación de datos en DataFrames.
 - <b>Segundo sprint</b>: Creación de la base de datos local, más la conexión hacia la misma a través de un script de Python.
@@ -30,6 +30,6 @@ Proyecto para analizar data de una api de fútbol, realizando el consumo de la m
 - <b>Sexto sprint</b>: Mejoras en el proceso del script de python + mejora del reporte de PBI. Y realización de un ETL para almacenar los datos en otro Server, aplicándole transformaciones para enriquecer los mismos.
 
 ----
-##Reporte PowerBI
+## Reporte PowerBI
 ![Enlace al Reporte PowerBI](https://github.com/ramiperez/Data-Api-Football/blob/main/pbi_reports/Cap_pbi_api_football.png)
 
