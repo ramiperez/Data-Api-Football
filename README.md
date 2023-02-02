@@ -1,12 +1,5 @@
 ![](https://apifootball.com/img/logo2.png)
 
-------
-<h2>Tabla de Contenidos</h2>
-
-[ TOCM ]
-
-__TOC__
-
 ----
 ## Descripción
 <p>
