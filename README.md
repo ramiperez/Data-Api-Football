@@ -3,9 +3,9 @@
 ------
 <h2>Tabla de Contenidos</h2>
 
-[TOCM]
+__TOCM__
 
-[TOC]
+__TOC__
 
 ----
 ## Descripción
