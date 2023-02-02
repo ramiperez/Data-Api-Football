@@ -3,7 +3,7 @@
 ------
 <h2>Tabla de Contenidos</h2>
 
-__TOCM__
+[ TOCM ]
 
 __TOC__
 
