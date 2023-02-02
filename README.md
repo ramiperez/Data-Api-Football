@@ -3,7 +3,6 @@
 ----
 ## Descripción
 
-----
 <p>
 Proyecto para analizar data de una api de fútbol, realizando el consumo de la misma a través de Python. Posteriormente, se agregan funcionalidades para realizar transformaciones de los datos y cargarlos en un servidor local.
 </p>
@@ -11,7 +10,6 @@ Proyecto para analizar data de una api de fútbol, realizando el consumo de la m
 ----
 ## Herramientas ulizadas en el proyecto:
 
-----
 
 - Python (Pandas, Jupyter Notebook)
 - SQL Server Management Studio (Vistas, Store Procedures)
@@ -21,7 +19,6 @@ Proyecto para analizar data de una api de fútbol, realizando el consumo de la m
 ----
 ## Historias de usuario
 
-----
 
 - <b>Primer sprint</b>: Consumo de información de API FOOTBALL, más la funcionalidad de interpretación de datos en DataFrames.
 - <b>Segundo sprint</b>: Creación de la base de datos local, más la conexión hacia la misma a través de un script de Python.
@@ -33,7 +30,6 @@ Proyecto para analizar data de una api de fútbol, realizando el consumo de la m
 ----
 ## Reporte PowerBI
 
-----
 - Es posible obtener un recuento totales de goles en la liga, también por cada equipo o jugador.
 - Se visibiliza los promedios de edades por equipo o globalmente.
 - Se realiza un muestreo de asistencias por jugador o equipo. 
